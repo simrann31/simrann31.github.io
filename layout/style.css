@@ -1,0 +1,44 @@
+
+
+.tagline{
+ font-family: serif;
+}
+
+
+
+.img{
+  height: 220px;
+  width: 220px;
+}
+
+.featuredimg{
+  height: 250px;
+  width: 250px;
+}
+
+.fontcolor{
+  color: grey;
+}
+
+.image{
+  height: 400px;
+  width: 400px;
+}
+
+.imgsamples{
+  height: 200px;
+  width: 200px;
+}
+
+.imgzoom{
+  transition: tramsform .2s;
+}
+
+.imgzoom:hover{
+  transform:scale(1.8);
+}
+
+.logo{
+  height: 100px;
+  width: 200px;
+}
